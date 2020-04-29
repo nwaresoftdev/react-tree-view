@@ -30,5 +30,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Example for a react tree view menu",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujilgovind/react-tree-view.git"
+  },
+  "keywords": [
+    "react-tree-menu"
+  ],
+  "author": "Outlander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujilgovind/react-tree-view/issues"
+  },
+  "homepage": "https://github.com/sujilgovind/react-tree-view#readme"
 }

@@ -1,10 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Tree from './components/Tree';
+
 
 function App() {
   return (
     <div className="App">
+      <Tree/>
     </div>
   );
 }

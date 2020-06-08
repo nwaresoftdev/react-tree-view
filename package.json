@@ -37,7 +37,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sujilgovind/react-tree-view.git"
+    "url": "git+https://github.com/nwaresoftdev/react-tree-view.git"
   },
   "keywords": [
     "react-tree-menu"
@@ -45,7 +45,7 @@
   "author": "Outlander",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sujilgovind/react-tree-view/issues"
+    "url": "https://github.com/nwaresoftdev/react-tree-view/issues"
   },
   "homepage": ""
 }
